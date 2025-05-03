@@ -1,4 +1,4 @@
-# northwind-autoencoder-recommender
+# NorthwindAutoencoderRecommender-NewProductPurchasePotential-
 
 # 🛍️ Yeni Ürün Satın Alma Potansiyeli Tahmini (FastAPI + AutoEncoder)
 
