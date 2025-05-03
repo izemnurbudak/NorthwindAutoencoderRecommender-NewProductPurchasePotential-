@@ -39,7 +39,7 @@ Müşterilerin geçmişte harcama yaptıkları kategori dağılımını analiz e
 
 
 **FastAPI sunucusunu başlat**
-uvicorn app:app --reload
+uvicorn problem3:app --reload
 
 **API arayüzüne git**
 http://localhost:8000/docs
